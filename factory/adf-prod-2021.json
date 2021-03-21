@@ -1,0 +1,9 @@
+{
+	"name": "adf-prod-2021",
+	"location": "Southeast Asia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e0060a18-9ea4-4327-9d8a-c46402198e22",
+		"tenantId": "e82953c6-1faf-4444-a35c-56a834ce8896"
+	}
+}
